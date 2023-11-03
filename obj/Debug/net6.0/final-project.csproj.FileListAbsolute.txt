@@ -3,7 +3,6 @@ C:\Users\Ange Gardien\OneDrive\Desktop\csharp-course\final-project\bin\Debug\net
 C:\Users\Ange Gardien\OneDrive\Desktop\csharp-course\final-project\bin\Debug\net6.0\final-project.runtimeconfig.json
 C:\Users\Ange Gardien\OneDrive\Desktop\csharp-course\final-project\bin\Debug\net6.0\final-project.dll
 C:\Users\Ange Gardien\OneDrive\Desktop\csharp-course\final-project\bin\Debug\net6.0\final-project.pdb
-C:\Users\Ange Gardien\OneDrive\Desktop\csharp-course\final-project\obj\Debug\net6.0\final-project.csproj.AssemblyReference.cache
 C:\Users\Ange Gardien\OneDrive\Desktop\csharp-course\final-project\obj\Debug\net6.0\final-project.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Ange Gardien\OneDrive\Desktop\csharp-course\final-project\obj\Debug\net6.0\final-project.AssemblyInfoInputs.cache
 C:\Users\Ange Gardien\OneDrive\Desktop\csharp-course\final-project\obj\Debug\net6.0\final-project.AssemblyInfo.cs

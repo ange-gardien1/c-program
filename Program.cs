@@ -1,4 +1,4 @@
-﻿
+﻿/* it was funny*/
 
        string employeetext = "employees.txt";
         List<Employee> employees = new List<Employee>();
@@ -107,7 +107,7 @@
                 Console.WriteLine("\n" + newEmployee);
             }
             
-        Console.WriteLine("New employee Added.");
+        Console.WriteLine("New employee Added and successfuly.");
     }
 
     void ViewAllEmployees(List<Employee> employees)
@@ -115,7 +115,7 @@
         if (employees.Count > 0)
         {
             Console.WriteLine("*****************");
-            Console.WriteLine("All Employees:");
+            Console.WriteLine("All Employees :");
             Console.WriteLine("****************");
             foreach (Employee employee in employees)
             {
@@ -160,7 +160,7 @@
             Employee employee = employees.FirstOrDefault(e => e.EmployeeID == searchID);
             if (employee != null)
             {
-                Console.WriteLine("Employee found:");
+                Console.WriteLine("Employee found successfully:");
                 Console.WriteLine(employee);
             }
             else

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HNt6fFEmjJ4+ksCJoOuNWe7t5SzTYeaaY+uWR0NFFcrcxEfL83C6a6QGK/Zk2UQ9SoOiNUmUs/wK0LKYTV3e1w==",
+  "dgSpecHash": "c3eaB1FAbOE7nox+5abRrt64Dx6BtmzxOYRGeO2U4LFwUBcf505MSz9L9zi9C9dk8/xVdJMBKR4FVOH3yOLqAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ange Gardien\\OneDrive\\Desktop\\csharp-course\\final-project\\final-project.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ange Gardien\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Ange Gardien\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Ange Gardien\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\Ange Gardien\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
   "logs": []
 }
